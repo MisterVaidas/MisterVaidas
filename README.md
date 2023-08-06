@@ -1,3 +1,4 @@
+<div style="background-color: #f2f2f2; padding: 20px;">
 ## Hi there! 👋 I'm Vaidas
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MisterVaidas) ![GitHub Followers](https://img.shields.io/github/followers/MisterVaidas?label=Follow&style=social)
@@ -37,3 +38,5 @@ Here are a few projects I'm proud of:
 - [Dev.to](https://dev.to/mistervaidas)
 
 Feel free to explore my repositories and don't forget to follow me if you find my work interesting. Let's connect and collaborate on exciting projects together! 😊
+
+</div>
