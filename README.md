@@ -1,4 +1,4 @@
-<div style="background-color: #f2f2f2; padding: 20px;">
+<div style="background-color: #E6CEA0; padding: 20px;">
 ## Hi there! 👋 I'm Vaidas
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MisterVaidas) ![GitHub Followers](https://img.shields.io/github/followers/MisterVaidas?label=Follow&style=social)
