@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MisterVaidas) ![GitHub Followers](https://img.shields.io/github/followers/MisterVaidas?label=Follow&style=social)
 
-I'm a passionate Crypto and Blockchain Technology with a love for coding and a curiosity for solving problems. Welcome to my GitHub profile!
+I'm a passionate about Crypto and Blockchain Technology with a love for coding and a curiosity for solving problems. Welcome to my GitHub profile!
 
 ### About Me
 
