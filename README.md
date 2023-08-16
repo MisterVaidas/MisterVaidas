@@ -6,7 +6,7 @@ I'm a passionate about Crypto and Blockchain Technology with a love for coding a
 
 ### About Me
 
-- 🔭 I’m currently working on Real-Time Chat Application. Its a final project of my current course.
+- 🔭 I’m recently completed coding bootcamp, and looking for new opportunities.
 - 🌱 I’m constantly learning and exploring new technologies and frameworks.
 - 👯 I’m looking to collaborate on Crypro projects, Blockchain development projects etc.
 - 💬 Ask me about Bitcoin and Ethereum.
@@ -29,6 +29,7 @@ Here are a few projects I'm proud of:
 
 - [SlotMachine](https://github.com/MisterVaidas/slot-machine)
 - [Horned Beast World](https://github.com/MisterVaidas/horned-beast-class1)
+- [Chat App back-end](https://github.com/MisterVaidas/chat-app-back-end)
 
 ### Find Me Online
 
