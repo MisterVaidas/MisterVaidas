@@ -17,7 +17,7 @@ I'm a passionate about Crypto and Blockchain Technology with a love for coding a
 
 Here are some of the technologies and tools I work with:
 
-- Programming Languages: HTML, CSS, JavaScript, Java, Solidity, React, Kotlin.
+- Programming Languages: HTML, CSS, JavaScript, Java, Solidity, React, Kotlin, Python
 - Frontend: HTML, CSS, React.
 - Backend: Node.js.
 - Databases: MongoDB.
